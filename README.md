@@ -10,6 +10,8 @@ It is a simple Script, I usualy create an alias in the linux machine like:
 
 Then I run the command and change my settings.
 
+Any sugestion or critics or improvement is greatly welcome.
+
 
 ##Credits
 * Credits to [Dileep Mani] (http://advantage-bash.blogspot.com.br/2013/05/mplayer-presets.html). There I found the original script and change it a little to preserve the already setted configurations.
