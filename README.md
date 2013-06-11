@@ -4,9 +4,9 @@ A script to change the equializer settings on mplayer. It is really useful when 
 
 It is a simple Script, I usualy create an alias in the linux machine like: 
 
-'''
+```
     alias setmplayereq='path/to/script'
-'''
+```
 
 Then I run the command and change my settings.
 
